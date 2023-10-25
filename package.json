@@ -1,0 +1,123 @@
+{
+  "name": "slabs",
+  "displayName": "SLab Theme : Special Edition",
+  "description": "Special Edition Of SLab Theme",
+  "publisher": "HasibX2000",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "Hasibur Rahman"
+  },
+  "icon": "images/logo.png",
+  "keywords": [
+    "SLab Theme",
+    "Dracula",
+    "Sweet",
+    "Dracula Clean",
+    "Dracula Italic",
+    "Andromeda",
+    "Ubuntu Theme",
+    "JellyFish",
+    "Mars",
+    "Material",
+    "Panda",
+    "React Theme",
+    "Blue",
+    "Vibrant",
+    "BlueVibrant"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SLab Special : Andromeda Italic Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Andromeda.json"
+      },
+      {
+        "label": "SLab Special : 1987 Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1987.json"
+      },
+      {
+        "label": "SLab Special : Blue Vibrant Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BluVibrant.json"
+      },
+      {
+        "label": "SLab Special : Dracula Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula.json"
+      },
+      {
+        "label": "SLab Special : Dracula Italic Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DraculaItalic.json"
+      },
+      {
+        "label": "SLab Special : Dracula Clean Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DraculaClean.json"
+      },
+      {
+        "label": "SLab Special : Dracula Clean Italic Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DraculaCleanItalic.json"
+      },
+      {
+        "label": "SLab Special : Dracula Peace Of Eye Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DraculaPE.json"
+      },
+      {
+        "label": "SLab Special : Jellyfish Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JellyFish.json"
+      },
+      {
+        "label": "SLab Special : Legenad Dark Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LegendDark.json"
+      },
+      {
+        "label": "SLab Special : Mars Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mars.json"
+      },
+      {
+        "label": "SLab Special : Material Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material.json"
+      },
+      {
+        "label": "SLab Special : Material Dark Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MaterialC.json"
+      },
+      {
+        "label": "SLab Special : Panda Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Panda.json"
+      },
+      {
+        "label": "SLab Special :React Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/React.json"
+      },
+      {
+        "label": "SLab Special : Sweet Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sweet.json"
+      },
+      {
+        "label": "SLab Special : Ubuntu Edition",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ubuntu.json"
+      }
+    ]
+  }
+}
